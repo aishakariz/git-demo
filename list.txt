@@ -1,2 +1,7 @@
 Things to do 
-1.Lear Java
+Learn Java
+practice Java
+practice git 
+practice selenium 
+new things  from github 
+practice interview questions 
